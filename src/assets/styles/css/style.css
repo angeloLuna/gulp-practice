@@ -1,0 +1,15 @@
+header {
+  background-color: #FFF; }
+  header h1 {
+    color: red;
+    font-size: 2em;
+    font-weight: bold; }
+  header h4 {
+    background-color: red; }
+  header h2 {
+    background-color: green; }
+  header h5 {
+    display: none; }
+
+.hola {
+  background-color: red; }
